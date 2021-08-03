@@ -1,12 +1,12 @@
 ### Hi There! 👋
 
 
+- 😜 Things I´m studying now:
+  - Pandas, NumPy & Graphics
+  - Golang
+  - JavaScript
 - 🔭 I´m currently graduating from Inatel in Software Engineering
-- 😜 Courses I´m in now:
-  - Python Bootcamp by PierianData at Udemy
-  - Go Devloper´s Guide at Udemy
-  - JavaScript by CursoemVideo
-- 🌱 Learning more about C++, Python and JS
+- 🌱 Always learning more about C++, Python and JS
 - 👯 I love working on challenging projects!
 - 📫 How to reach me: isaque.h@ges.inatel.br
 
