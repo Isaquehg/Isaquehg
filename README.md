@@ -12,6 +12,7 @@
   - Learn Artificial Intelligence with TensorFlow
   - Learn DataBases
 - 📫 How to reach me: isaque.h@ges.inatel.br
+
 # Languages & Tools:
 <img align="left" alt="Github Projects" width="100px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img align="left" alt="Jupyter" width="100px" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
@@ -30,3 +31,10 @@
 <img align="left" alt="CSS3" width="88px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="left" alt="JavaScript" width="130px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="left" alt="JSON" width="88px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+<br>
+    
+# Statistics:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaquehg)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaquehg&layout=compact)](https://github.com/Isaquehg/github-readme-stats)
