@@ -32,6 +32,7 @@
 <img align="left" alt="JavaScript" width="130px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="left" alt="JSON" width="88px" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">  
    
+   
 # Statistics:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaquehg)](https://github.com/anuraghazra/github-readme-stats)
