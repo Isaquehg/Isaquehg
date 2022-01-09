@@ -7,7 +7,7 @@
   - Django
   - JavaScript
 - 🔭 I´m currently graduating from Inatel in Software Engineering
-- 👯 My Goals:
+- 👉 My Goals:
   - Web Programming
   - Learn Artificial Intelligence with TensorFlow
   - Learn DataBases
