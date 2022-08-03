@@ -2,14 +2,15 @@
 
 # About me:
 - 😜 Things I´m studying now:
-  - TensorFlow
-  - Algorithms & Data Structures
+  - Java
+  - Databases
+  - MQTT Security
+  - TensorFlow Lite & TinyML
   - Django
-  - Software Defined Radio
 - 🔭 I´m currently graduating from Inatel in Software Engineering
 - 👉 My Goals:
-  - Master AI
-  - Learn React Native
+  - Master Machine Learning
+  - Learn App/Web Devlopment
   - Learn REST APIs
 - 📫 How to reach me: isaque.h@ges.inatel.br 
 
