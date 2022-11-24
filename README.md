@@ -4,13 +4,12 @@
 - 😜 Things I´m studying now:
   - Java
   - Databases
-  - MQTT Security
-  - TensorFlow Lite & TinyML
-  - Django
+  - Mobile Security
+  - Machine Learning
 - 🔭 I´m currently graduating from Inatel in Software Engineering
 - 👉 My Goals:
   - Master Machine Learning
-  - Learn App/Web Devlopment
+  - Master App/Web Devlopment
   - Learn REST APIs
 - 📫 How to reach me: isaque.h@ges.inatel.br 
 
