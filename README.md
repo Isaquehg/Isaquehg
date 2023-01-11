@@ -2,15 +2,14 @@
 
 # About me:
 - 😜 Things I´m studying now:
-  - Java
+  - Deep Learning
+  - APIs
   - Databases
   - Mobile Security
-  - Machine Learning
-- 🔭 I´m currently graduating from Inatel in Software Engineering
 - 👉 My Goals:
-  - Master Machine Learning
-  - Master App/Web Devlopment
+  - Master Deep Learning
   - Learn REST APIs
+- 🔭 I´m currently graduating from Inatel in Software Engineering
 - 📫 How to reach me: isaque.h@ges.inatel.br 
 
 # Statistics:
