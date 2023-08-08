@@ -3,13 +3,14 @@
 
 - 🔭 I’m currently studying at **Instituto Nacional de Telecomunicações**
 
-- 🌱 I’m currently learning:
+- 🌱 What I'm learning:
   - Mobile Development
   - Deep Learning
   - AppSec/Mobile Security
   - NoSQL Databases
 
 - 📫 How to reach me **isaque.h@ges.inatel.br**
+- 💻 Personal Website **<a href="https://isaquehg.github.io/">Click Here!</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
