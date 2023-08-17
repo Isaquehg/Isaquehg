@@ -4,10 +4,10 @@
 - 🔭 I’m currently studying at **Instituto Nacional de Telecomunicações**
 
 - 🌱 What I'm learning:
-  - Mobile Development
-  - Deep Learning
+  - REST APIs/Microservices
+  - Cloud Computing
   - AppSec/Mobile Security
-  - NoSQL Databases
+  - Testing
 
 - 📫 How to reach me **isaque.h@ges.inatel.br**
 - 💻 Personal Website **<a href="https://isaquehg.github.io/">Click Here!</a>**
