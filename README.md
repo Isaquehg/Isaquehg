@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying at **Instituto Nacional de Telecomunicações**
 
 - 🌱 What I'm learning:
-  - REST APIs/Microservices
+  - REST APIs & DevOps
   - Cloud Computing
   - AppSec/Mobile Security
   - Testing
