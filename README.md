@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isaquehg</h1>
+<h1 align="center">Hi, I'm Isaquehg</h1>
 <h3 align="center">A Software Engineering Student</h3>
 
 - 🔭 I’m currently studying at **Instituto Nacional de Telecomunicações**
@@ -6,16 +6,17 @@
 - 🌱 What I'm learning:
   - REST APIs & DevOps
   - Cloud Computing
-  - AppSec/Mobile Security
-  - Testing
+  - AppSec/Mobile CyberSecurity
+  - Testing Methodologies
 
-- 📫 How to reach me **isaque.h@ges.inatel.br**
-- 💻 Personal Website **<a href="https://isaquehg.github.io/">Click Here!</a>**
+- 📫 **<a href="https://linktr.ee/isaquehg">Reach me out!</a>**
+- 💻 **<a href="https://isaquehg.github.io/">Personal Website</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linktr.ee/isaquehg" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/e3e205b7f04bdc03d7f68bf0174a3be8c07cf237/icons/linktree.svg" height=30 width=40/></a>
 <a href="https://linkedin.com/in/isaque-hollanda-gon%c3%a7alves-37991021a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaque-hollanda-gon%c3%a7alves-37991021a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15172122/isaquehg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="isaquehg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15172122/isaquehg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="isaquehg" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
