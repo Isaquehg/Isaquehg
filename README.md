@@ -4,10 +4,10 @@
 - 🔭 I’m currently studying at **Instituto Nacional de Telecomunicações**
 
 - 🌱 What I'm learning:
-  - REST APIs & DevOps
+  - REST APIs
+  - DevOps
   - Cloud Computing
   - AppSec/Mobile CyberSecurity
-  - Testing Methodologies
 
 - 📫 **<a href="https://linktr.ee/isaquehg">Reach me out!</a>**
 - 💻 **<a href="https://isaquehg.github.io/">Personal Website</a>**
