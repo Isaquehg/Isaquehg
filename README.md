@@ -8,7 +8,6 @@
   - DevOps
   - Cloud Computing
 
-- 📫 **<a href="https://linktr.ee/isaquehg">Reach me out!</a>**
 - 💻 **<a href="https://isaquehg.github.io/">Personal Website</a>**
 
 <h3 align="left">Connect with me:</h3>
