@@ -1,14 +1,10 @@
 <h1 align="center">Hi, I'm Isaquehg</h1>
 <h3 align="center">A Software Engineering Student</h3>
 
-- 🔭 I’m currently studying at **Instituto Nacional de Telecomunicações**
-
 - 🌱 What I'm learning:
   - REST APIs
   - DevOps
   - Cloud Computing
-
-- 💻 **<a href="https://isaquehg.github.io/">Personal Website</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
